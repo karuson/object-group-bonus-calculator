@@ -1,0 +1,15 @@
+added to .gitignore to not push to github
+
+write function to calculate an employee's bonus
+  - if rating <= 2, no bonus
+  - if rating == 3, bonus = 4%
+  - if rating == 4, bonus = 6%
+  - if rating == 5, bonus = 10%
+ 
+ bonus modifiers
+  - if employee.number.length == 4, bonus + 5%
+  - if income > 65000, bonus - 1%
+  - if bonus > 13%, bonus = 13%
+  - if bonus < 0, bonus = 0
+
+  write function that calculates for multiple employees with loop 
